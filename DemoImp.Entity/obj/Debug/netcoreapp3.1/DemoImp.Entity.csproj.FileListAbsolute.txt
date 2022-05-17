@@ -1,0 +1,9 @@
+D:\try\DemoImp.Entity\bin\Debug\netcoreapp3.1\DemoImp.Entity.deps.json
+D:\try\DemoImp.Entity\bin\Debug\netcoreapp3.1\DemoImp.Entity.dll
+D:\try\DemoImp.Entity\bin\Debug\netcoreapp3.1\DemoImp.Entity.pdb
+D:\try\DemoImp.Entity\obj\Debug\netcoreapp3.1\DemoImp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\try\DemoImp.Entity\obj\Debug\netcoreapp3.1\DemoImp.Entity.AssemblyInfoInputs.cache
+D:\try\DemoImp.Entity\obj\Debug\netcoreapp3.1\DemoImp.Entity.AssemblyInfo.cs
+D:\try\DemoImp.Entity\obj\Debug\netcoreapp3.1\DemoImp.Entity.csproj.CoreCompileInputs.cache
+D:\try\DemoImp.Entity\obj\Debug\netcoreapp3.1\DemoImp.Entity.dll
+D:\try\DemoImp.Entity\obj\Debug\netcoreapp3.1\DemoImp.Entity.pdb

@@ -1,0 +1,15 @@
+D:\try\DemoImp.Repo\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\try\DemoImp.Repo\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+D:\try\DemoImp.Repo\bin\Debug\netcoreapp3.1\DemoImp.Repo.deps.json
+D:\try\DemoImp.Repo\bin\Debug\netcoreapp3.1\DemoImp.Repo.dll
+D:\try\DemoImp.Repo\bin\Debug\netcoreapp3.1\DemoImp.Repo.pdb
+D:\try\DemoImp.Repo\bin\Debug\netcoreapp3.1\DemoImp.Entity.dll
+D:\try\DemoImp.Repo\bin\Debug\netcoreapp3.1\DemoImp.Entity.pdb
+D:\try\DemoImp.Repo\obj\Debug\netcoreapp3.1\DemoImp.Repo.csproj.AssemblyReference.cache
+D:\try\DemoImp.Repo\obj\Debug\netcoreapp3.1\DemoImp.Repo.GeneratedMSBuildEditorConfig.editorconfig
+D:\try\DemoImp.Repo\obj\Debug\netcoreapp3.1\DemoImp.Repo.AssemblyInfoInputs.cache
+D:\try\DemoImp.Repo\obj\Debug\netcoreapp3.1\DemoImp.Repo.AssemblyInfo.cs
+D:\try\DemoImp.Repo\obj\Debug\netcoreapp3.1\DemoImp.Repo.csproj.CoreCompileInputs.cache
+D:\try\DemoImp.Repo\obj\Debug\netcoreapp3.1\DemoImp.Repo.csproj.CopyComplete
+D:\try\DemoImp.Repo\obj\Debug\netcoreapp3.1\DemoImp.Repo.dll
+D:\try\DemoImp.Repo\obj\Debug\netcoreapp3.1\DemoImp.Repo.pdb
